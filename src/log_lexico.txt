@@ -1,0 +1,225 @@
+[TOKEN_UNIFICADO] (?P<token001>void)|(?P<token002>int)|(?P<token003>float)|(?P<token004>char)|(?P<token005>bool)|(?P<token006>if)|(?P<token007>else)|(?P<token008>for)|(?P<token009>while)|(?P<token010>do)|(?P<token011>return)|(?P<token012>break)|(?P<token013>continue)|(?P<token014>goto)|(?P<token015>true)|(?P<token016>false)|(?P<token017>\+)|(?P<token018>\-)|(?P<token019>\*)|(?P<token020>\/)|(?P<token021>\%)|(?P<token022>\?)|(?P<token023>\:)|(?P<token024>\!)|(?P<token025>\&)|(?P<token026>\.)|(?P<token027>->)|(?P<token028><)|(?P<token029>>)|(?P<token030>==)|(?P<token031>!-)|(?P<token032><=)|(?P<token033>>=)|(?P<token034>=)|(?P<token035>\+=)|(?P<token036>\-=)|(?P<token037>\*=)|(?P<token038>\/=)|(?P<token039>\%=)|(?P<token040>\++)|(?P<token041>&&)|(?P<token042>\A\|\|)|(?P<token043>,)|(?P<token044>;)|(?P<token045>\()|(?P<token046>\))|(?P<token047>\])|(?P<token048>\{)|(?P<token049>\})|(?P<token050>endif)|(?P<token055>print)|(?P<token056>printLn)|(?P<token057>var)|(?P<token058>real)|(?P<token059>scanf)|(?P<token061>scan)|(?P<token062>main)|(?P<token063>end)|(?P<token064>")|(?P<token065>[a-zA-Z]\w*)|(?P<token066>\d(\d)*\.\d(\d)*)|(?P<token067>\d(\d)*)|(?P<token098>\n)|(?P<token099>[ \t]+)|(?P<token100>.)
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:main
+[LOG] Token Mapeado:token062 Lexema:main
+[LOG] Analisando palavra:(
+[LOG] Token Mapeado:token045 Lexema:(
+[LOG] Analisando palavra:)
+[LOG] Token Mapeado:token046 Lexema:)
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:    
+[LOG] Token Mapeado:token099 Lexema:    
+[LOG] Analisando palavra:real
+[LOG] Token Mapeado:token058 Lexema:real
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:var
+[LOG] Token Mapeado:token057 Lexema:var
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:real
+[LOG] Token Mapeado:token058 Lexema:real
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:a
+[LOG] Token Mapeado:token065 Lexema:a
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:a
+[LOG] Token Mapeado:token065 Lexema:a
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:=
+[LOG] Token Mapeado:token034 Lexema:=
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:90
+[LOG] Token Mapeado:token067 Lexema:90
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:var
+[LOG] Token Mapeado:token057 Lexema:var
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:real
+[LOG] Token Mapeado:token058 Lexema:real
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:b
+[LOG] Token Mapeado:token065 Lexema:b
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:%
+[LOG] Token Mapeado:token021 Lexema:%
+[LOG] Analisando palavra:$
+[LOG] Token Mapeado:token100 Lexema:$
+[ERRO LEXICO] Elemento desconhecido: $ na linha: 7
+[LOG] Analisando palavra:$
+[LOG] Token Mapeado:token100 Lexema:$
+[ERRO LEXICO] Elemento desconhecido: $ na linha: 7
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:scan
+[LOG] Token Mapeado:token061 Lexema:scan
+[LOG] Analisando palavra:(
+[LOG] Token Mapeado:token045 Lexema:(
+[LOG] Analisando palavra:a
+[LOG] Token Mapeado:token065 Lexema:a
+[LOG] Analisando palavra:)
+[LOG] Token Mapeado:token046 Lexema:)
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:scan
+[LOG] Token Mapeado:token061 Lexema:scan
+[LOG] Analisando palavra:(
+[LOG] Token Mapeado:token045 Lexema:(
+[LOG] Analisando palavra:b
+[LOG] Token Mapeado:token065 Lexema:b
+[LOG] Analisando palavra:)
+[LOG] Token Mapeado:token046 Lexema:)
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:var
+[LOG] Token Mapeado:token057 Lexema:var
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:real
+[LOG] Token Mapeado:token058 Lexema:real
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:s
+[LOG] Token Mapeado:token065 Lexema:s
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:s
+[LOG] Token Mapeado:token065 Lexema:s
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:=
+[LOG] Token Mapeado:token034 Lexema:=
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:a
+[LOG] Token Mapeado:token065 Lexema:a
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:+
+[LOG] Token Mapeado:token017 Lexema:+
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:b
+[LOG] Token Mapeado:token065 Lexema:b
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:print
+[LOG] Token Mapeado:token055 Lexema:print
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:(
+[LOG] Token Mapeado:token045 Lexema:(
+[LOG] Analisando palavra:"
+[LOG] Token Mapeado:token064 Lexema:"
+[LOG] Analisando palavra:soma
+[LOG] Token Mapeado:token065 Lexema:soma
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:=
+[LOG] Token Mapeado:token034 Lexema:=
+[LOG] Analisando palavra: 
+[LOG] Token Mapeado:token099 Lexema: 
+[LOG] Analisando palavra:"
+[LOG] Token Mapeado:token064 Lexema:"
+[LOG] Analisando palavra:)
+[LOG] Token Mapeado:token046 Lexema:)
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:	
+[LOG] Token Mapeado:token099 Lexema:	
+[LOG] Analisando palavra:print
+[LOG] Token Mapeado:token055 Lexema:print
+[LOG] Analisando palavra:Ln
+[LOG] Token Mapeado:token065 Lexema:Ln
+[LOG] Analisando palavra:(
+[LOG] Token Mapeado:token045 Lexema:(
+[LOG] Analisando palavra:s
+[LOG] Token Mapeado:token065 Lexema:s
+[LOG] Analisando palavra:)
+[LOG] Token Mapeado:token046 Lexema:)
+[LOG] Analisando palavra:;
+[LOG] Token Mapeado:token044 Lexema:;
+[LOG] Analisando palavra:
+
+[LOG] Token Mapeado:token098 Lexema:
+
+[LOG] Analisando palavra:end
+[LOG] Token Mapeado:token063 Lexema:end
